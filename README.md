@@ -96,7 +96,7 @@ Installation
 Clone the repository
 
 sh
-git clone https://github.com/your-repo/fgb-online-bank.git
+git clone https://github.com/isaiah-david/online-bank.git
 Configure the database
 
 Import fgb_database.sql into MySQL
@@ -107,7 +107,7 @@ Run the application
 
 Place files in your web server directory (e.g., htdocs or /var/www/html)
 
-Access via http://localhost/fgb-online-bank
+Access via http://localhost/online-bank
 
 📝 Usage
 Login
@@ -131,7 +131,7 @@ This project is licensed under MIT License.
 
 📧 Contact
 For support or inquiries, contact:
-📩 support@firstglobalbank.com
+📩 officialpelvin@gmail.com
 🌐 https://www.firstglobalbank.com
 
 💡 Future Improvements
